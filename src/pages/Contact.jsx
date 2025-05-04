@@ -20,7 +20,7 @@ export default function Contact() {
         rel="noopener noreferrer"
         className={styles.button}
       >
-        Изпрати съобщение чрез форма
+        Попълни формата за контакт
       </a>
     </div>
   );

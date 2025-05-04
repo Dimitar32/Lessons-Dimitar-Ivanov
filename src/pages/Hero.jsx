@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className={styles.hero}>
       <div className={styles.overlay}>
-        <h1 className={styles.title}>Уроци по информатика, ИТ и програмиране</h1>
+        <h1 className={styles.title}>Уроци по информатика, програмиране и информационни технологии</h1>
         <p className={styles.subtitle}>
           Подготвям ученици, студенти и хора на всякаква възраст – индивидуално и практически насочено.
         </p>
