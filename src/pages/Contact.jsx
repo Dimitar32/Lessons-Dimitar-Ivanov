@@ -10,8 +10,8 @@ export default function Contact() {
 
       <div className={styles.infoBox}>
         <p><strong>📞 Телефон:</strong> <a href="tel:0879330389" className={styles.link}>0879 330 389</a></p>
-        <p><strong>📧 Email:</strong> <a href="mailto:dimitar@example.com" className={styles.link}>dimitar@example.com</a></p>
-        <p><strong>💬 Viber / Telegram:</strong> Наличен след първи контакт</p>
+        <p><strong>📧 Email:</strong> <a href="mailto:dimitarivanov2525@gmail.com" className={styles.link}>dimitarivanov2525@gmail.com</a></p>
+        <p><strong>💬 Viber:</strong> 0879 330 389</p>
       </div>
 
       <a
