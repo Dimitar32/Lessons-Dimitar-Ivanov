@@ -15,7 +15,7 @@ export default function Contact() {
       </div>
 
       <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLSd1234567890xyz/viewform"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSfX6Pj5JfLXBpXbeygLf1pVx1d_72xLpv09rVCtPVNwEYiUxA/viewform?usp=dialog"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.button}
