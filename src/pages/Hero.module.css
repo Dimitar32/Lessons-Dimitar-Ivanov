@@ -41,3 +41,11 @@
     background-color: var(--button-hover);
   }
   
+@media (max-width: 768px) {
+  .title {
+    font-size: 2.3rem;
+    margin-bottom: 1rem;
+    color: var(--white);
+  }
+}
+  
